@@ -1,13 +1,32 @@
 <details>
 
 <summary>Tools</summary>
-### You can add a header
-You can add text within a collapsed section. 
-You can add an image or a code block, too.
+### 3D
+- Blender
+- Unity Pro Builder
+- Unity Engine
+- instant-meshes
+- Spark
+- Mixamo
 
-```ruby
-   puts "Hello World"
-```
+- Adobe Photoshop
+- Premiere Pro
+- Figma
+- Canva
+
+- Visual Studio Code
+- Visual Studio
+- Inky
+- C#
+
+- SourceTree
+- Miro
+- Git Hub
+
+- Visual Studio Code
+- Visual Studio
+- Inky
+- C#
 
 </details>
 
