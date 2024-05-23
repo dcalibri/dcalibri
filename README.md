@@ -1,23 +1,18 @@
-<p class="small-text">This text will be smaller</p> 
- 
-Copy code.small-text { 
-    font-size: 80%; 
-} 
+<details>
 
+<summary>Tips for collapsed sections</summary>
 
+### You can add a header
 
-<sub>
-Blender
-Unity Pro Builder
-Unity Engine
-instant-meshes
-Spark
-Mixamo
-<p class="small-text">This text will be smaller</p> 
-.small-text { 
-    font-size: 80%; 
-} 
+You can add text within a collapsed section. 
 
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
   - Blender
 - Unity Pro Builder
 - Unity Engine
