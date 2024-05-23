@@ -1,6 +1,11 @@
 <details>
 
 <summary>Tools</summary>
+
+```ruby
+   puts "Hello World"
+```
+
 ### 3D
 - Blender
 - Unity Pro Builder
@@ -8,77 +13,24 @@
 - instant-meshes
 - Spark
 - Mixamo
-
+### 3D
 - Adobe Photoshop
 - Premiere Pro
 - Figma
 - Canva
-
+### 3D
 - Visual Studio Code
 - Visual Studio
 - Inky
 - C#
-
+### 3D
 - SourceTree
 - Miro
 - Git Hub
-
+### 3D
 - Visual Studio Code
 - Visual Studio
 - Inky
 - C#
 
 </details>
-
-
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
-  - Blender
-- Unity Pro Builder
-- Unity Engine
-- instant-meshes
-- Spark
-- Mixamo
-</sub> 
-
-############## **My Tools:**
-
-Blender
-Unity Pro Builder
-Unity Engine
-instant-meshes
-Spark
-Mixamo
-
-**3D**
-- Blender
-- Unity Pro Builder
-- Unity Engine
-- instant-meshes
-- Spark
-- Mixamo
-
-### **Design**
-- Adobe Photoshop
-- Premiere Pro
-- Figma
-- Canva
-
-### **Programming & Language**
-- Visual Studio Code
-- Visual Studio
-- Inky
-- C#
-
-### **Collaboration**
-- SourceTree
-- Miro
-- Git Hub
