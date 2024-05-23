@@ -4,6 +4,10 @@
 </body>
 </html>
 
+Copy code<sub>This text will be smaller</sub> 
+ 
+Copy code<sup>This text will be bigger</sup> 
+
 ############## **My Tools:**
 > This is main Blockquote
 > >This is nested Blockquote
