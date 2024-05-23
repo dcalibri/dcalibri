@@ -4,9 +4,7 @@
 </body>
 </html>
 
-Copy code<sub>This text will be smaller</sub> 
- 
-Copy code<sup>This text will be bigger</sup> 
+Copy code<small>This text will be smaller</small> 
 
 ############## **My Tools:**
 > This is main Blockquote
