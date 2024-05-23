@@ -1,7 +1,7 @@
-<sub>
+<sub1>
   This text will be smaller
   
-</sub> 
+</sub1> 
 
 ############## **My Tools:**
 > This is main Blockquote
