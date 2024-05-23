@@ -3,7 +3,7 @@
 <summary>Tools</summary>
 
 ```ruby
-   puts "Hello World"
+   "Hello World"
 ```
 
 ### 3D
