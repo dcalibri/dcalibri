@@ -1,3 +1,11 @@
+<p class="small-text">This text will be smaller</p> 
+ 
+Copy code.small-text { 
+    font-size: 80%; 
+} 
+
+
+
 <sub>
 Blender
 Unity Pro Builder
@@ -20,7 +28,12 @@ Mixamo
 
 ############## **My Tools:**
 
-
+Blender
+Unity Pro Builder
+Unity Engine
+instant-meshes
+Spark
+Mixamo
 
 **3D**
 - Blender
