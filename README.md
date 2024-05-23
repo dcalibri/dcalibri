@@ -4,7 +4,7 @@
 </body>
 </html>
 Copy code<p class="small-text">This text will be smaller</p> 
- 
+ <sub>This text will be smaller</sub> 
 Copy code.small-text { 
     font-size: 80%; 
 } 
