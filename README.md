@@ -1,14 +1,4 @@
-<html>
-<body>
-<p>Let’s keep it as a code block and not render it for once</p>
-</body>
-</html>
-Copy code<p class="small-text">This text will be smaller</p> 
- <sub>This text will be smaller</sub> 
-Copy code.small-text { 
-    font-size: 80%; 
-} 
-Copy code<small>This text will be smaller</small> 
+<sub>This text will be smaller</sub> 
 
 ############## **My Tools:**
 > This is main Blockquote
