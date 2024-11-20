@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Night Watch At The Gallery](https://github.com/alizul01/Nightwatch-at-The-Gallery)
 
-- 🌱 I’m currently learning **Shadergraph**
+- 🌱 I’m currently learning on Telkom University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
